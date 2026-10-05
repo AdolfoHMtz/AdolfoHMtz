@@ -36,10 +36,10 @@
 |---|---|---|---|
 | [**Simulador de Sistemas Distribuidos**](https://github.com/AdolfoHMtz/ProjectSO2-simulators) | Simuladores interactivos de elección de líder y sincronización de relojes. | React · TypeScript · Vite | [Ver en vivo](https://proyectoso-eq8-simuladores.netlify.app) |
 | [**PeliculasAPP**](https://github.com/AdolfoHMtz/PeliculasAPP) | App móvil de películas: detalles, categorías y búsqueda consumiendo una API externa. | Angular · Ionic | [Ver en vivo](https://peliculasappahm.netlify.app) |
-| [**Gestión Académica**](https://github.com/AdolfoHMtz/app-movil-escolar-webapp) | Sistema escolar: usuarios, eventos académicos y gráficas. | Angular · Django REST | — |
+| [**Gestión Académica**](https://github.com/AdolfoHMtz/app-movil-escolar-webapp) | Sistema escolar: usuarios, eventos académicos y gráficas. | Angular · Django REST | [Ver en vivo](https://app-movil-escolar-webapp-ahm.netlify.app) |
 | [**TareAPP**](https://github.com/AdolfoHMtz/TareAPP) | Gestor de tareas móvil. | Angular · Ionic | [Ver en vivo](https://stately-longma-2938d1.netlify.app) |
 | [**Calculadora Discreta**](https://github.com/AdolfoHMtz/Matematicas-Discretas) | Calculadora de conjuntos y relaciones. | React | [Ver en vivo](https://calculadoradiscreta-adolfohm.netlify.app) |
-| [**Gestión de Memoria**](https://github.com/AdolfoHMtz/Memory-Management) | Simuladores de particiones ([First/Best Fit](https://github.com/AdolfoHMtz/Memory-Management)) y [paginación](https://github.com/AdolfoHMtz/Memory-Management-Pagination). | React · MUI | — |
+| [**Gestión de Memoria**](https://github.com/AdolfoHMtz/Memory-Management) | Simuladores de particiones ([First/Best Fit](https://github.com/AdolfoHMtz/Memory-Management)) y [paginación](https://github.com/AdolfoHMtz/Memory-Management-Pagination). | React · MUI | [Ver en vivo](https://memory-management-perrines.netlify.app) |
 | [**APERRO**](https://github.com/AdolfoHMtz/Ing.Software) | App de emergencias médicas. | React · Express · MySQL | — |
 
 ### 📊 Estadísticas
