@@ -1,19 +1,33 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1E3A8A,100:3B82F6&height=220&section=header&text=Adolfo%20Huerta&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Creador%20de%20SimsUni&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adolfo Huerta" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Adolfo+Huerta+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+Ciencias+de+la+Computaci%C3%B3n;Desarrollador+Web+%26+M%C3%B3vil" alt="Typing SVG" />
+<a href="https://github.com/AdolfoHMtz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=720&height=45&lines=Construyo+apps+web+y+m%C3%B3viles+%F0%9F%9A%80;Next.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Angular;Ayudo+a+estudiantes+a+entrar+a+la+universidad+%F0%9F%8E%93;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" /></a>
 
-📍 Puebla, México &nbsp;·&nbsp; 🎓 BUAP · FCC &nbsp;·&nbsp; 💼 Galcex
+<p>
+  <img src="https://img.shields.io/badge/📍_Puebla,_México-1E293B?style=for-the-badge" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/🎓_BUAP_·_FCC-1E293B?style=for-the-badge" alt="BUAP" />
+  <img src="https://img.shields.io/badge/💼_Galcex-1E293B?style=for-the-badge" alt="Galcex" />
+  <a href="https://simuladorexam.vercel.app"><img src="https://img.shields.io/badge/🚀_SimsUni-2563EB?style=for-the-badge" alt="SimsUni" /></a>
+</p>
 
 </div>
 
----
-
 ### 🙋‍♂️ Sobre mí
 
-- 💻 Estudiante de **Ingeniería en Ciencias de la Computación** apasionado por crear aplicaciones web y móviles.
-- 🚀 Actualmente construyo **[SimsUni](https://simuladorexam.vercel.app)**, una plataforma de simulacros de exámenes de admisión universitaria.
-- 🌱 Aprendiendo más sobre **Next.js**, **tRPC**, **Prisma** y arquitectura full-stack con TypeScript.
-- 🤝 Abierto a colaborar en proyectos web y de software educativo.
+Soy estudiante de **Ingeniería en Ciencias de la Computación** en la BUAP y me apasiona convertir ideas en productos reales. Empecé con HTML y JavaScript, pasé por Angular, React y Django, y hoy estoy construyendo mi proyecto más ambicioso: **[SimsUni](https://simuladorexam.vercel.app)**, una plataforma full-stack de simulacros de exámenes de admisión.
+
+```ts
+const adolfo = {
+  ubicacion:    "Puebla, México 🇲🇽",
+  estudia:      "Ing. en Ciencias de la Computación @ BUAP",
+  trabaja:      "Galcex",
+  construyendo: "SimsUni: simulacros de admisión universitaria",
+  stack:        ["TypeScript", "Next.js", "React", "Angular", "Django"],
+  aprendiendo:  ["tRPC", "Prisma", "arquitectura full-stack"],
+  buscando:     "proyectos web y de software educativo para colaborar 🤝",
+};
+```
 
 ### 🛠️ Tecnologías
 
@@ -37,9 +51,10 @@
 | [**Simulador de Sistemas Distribuidos**](https://github.com/AdolfoHMtz/ProjectSO2-simulators) | Simuladores interactivos de elección de líder y sincronización de relojes. | React · TypeScript · Vite | [Ver en vivo](https://proyectoso-eq8-simuladores.netlify.app) |
 | [**PeliculasAPP**](https://github.com/AdolfoHMtz/PeliculasAPP) | App móvil de películas: detalles, categorías y búsqueda consumiendo una API externa. | Angular · Ionic | [Ver en vivo](https://peliculasappahm.netlify.app) |
 | [**Gestión Académica**](https://github.com/AdolfoHMtz/app-movil-escolar-webapp) | Sistema escolar: usuarios, eventos académicos y gráficas. | Angular · Django REST | [Ver en vivo](https://app-movil-escolar-webapp-ahm.netlify.app) |
-| [**TareAPP**](https://github.com/AdolfoHMtz/TareAPP) | Gestor de tareas móvil. | Angular · Ionic | [Ver en vivo](https://stately-longma-2938d1.netlify.app) |
-| [**Calculadora Discreta**](https://github.com/AdolfoHMtz/Matematicas-Discretas) | Calculadora de conjuntos y relaciones. | React | [Ver en vivo](https://calculadoradiscreta-adolfohm.netlify.app) |
-| [**Gestión de Memoria**](https://github.com/AdolfoHMtz/Memory-Management) | Simuladores de particiones ([First/Best Fit](https://github.com/AdolfoHMtz/Memory-Management)) y [paginación](https://github.com/AdolfoHMtz/Memory-Management-Pagination). | React · MUI | [Ver en vivo](https://memory-management-perrines.netlify.app) |
+| [**TareAPP**](https://github.com/AdolfoHMtz/TareAPP) | Gestor de tareas móvil con validaciones y guardado local. | Angular · Ionic | [Ver en vivo](https://stately-longma-2938d1.netlify.app) |
+| [**Calculadora Discreta**](https://github.com/AdolfoHMtz/Matematicas-Discretas) | Conjuntos, relaciones, combinatoria, aritmética modular y grafos. | React | [Ver en vivo](https://calculadoradiscreta-adolfohm.netlify.app) |
+| [**Gestión de Memoria**](https://github.com/AdolfoHMtz/Memory-Management) | Simuladores de [particiones](https://github.com/AdolfoHMtz/Memory-Management) (First/Best Fit) y [paginación](https://github.com/AdolfoHMtz/Memory-Management-Pagination). | React · MUI | [Particiones](https://memory-management-perrines.netlify.app) · [Paginación](https://departamental-eq8.netlify.app) |
+| [**Memorama**](https://github.com/AdolfoHMtz/Memorama) | Juego de memoria con personajes de Genshin Impact. | HTML · CSS · JS | [Jugar](https://memoramaahm.netlify.app) |
 | [**APERRO**](https://github.com/AdolfoHMtz/Ing.Software) | App de emergencias médicas. | React · Express · MySQL | — |
 
 ### 📊 Estadísticas
@@ -63,3 +78,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AdolfoHMtz&color=3178C6&style=flat-square&label=Visitas" alt="Visitas al perfil" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,45:1E3A8A,100:0B1120&height=110&section=footer" width="100%" alt="" />
