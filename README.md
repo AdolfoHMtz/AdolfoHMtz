@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1E3A8A,100:3B82F6&height=220&section=header&text=Adolfo%20Huerta&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Creador%20de%20SimsUni&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adolfo Huerta" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:1E3A8A,100:3B82F6&height=220&section=header&text=Adolfo%20Huerta&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Ingeniero de Software %C2%B7%20Full-Stack%20Developer%20%C2%B7%20Ing.%20en%20Ciencias de la Computación&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adolfo Huerta" />
 
 <div align="center">
 
@@ -80,3 +80,4 @@ const adolfo = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,45:1E3A8A,100:0B1120&height=110&section=footer" width="100%" alt="" />
+
